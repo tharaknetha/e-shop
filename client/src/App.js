@@ -8,6 +8,7 @@ import Signup from './pages/Signup';
 const App = () => {
 
   var i = 56;
+  var edit = "feature1 edited";
   var Feature = "Feature1";
 
   var i = 45;
