@@ -6,6 +6,10 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 
 const App = () => {
+
+  var i = 56;
+  var Feature = "Feature1";
+
   var i = 45;
   var Feature = "Feature2";
   return (
