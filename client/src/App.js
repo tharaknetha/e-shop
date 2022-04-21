@@ -12,6 +12,7 @@ const App = () => {
   var Feature = "Feature1";
 
   var i = 45;
+  var edit ="feature2 is edited";
   var Feature = "Feature2";
   return (
     <div>
