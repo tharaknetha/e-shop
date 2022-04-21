@@ -12,6 +12,8 @@ var i = "Feature1 is Edited on line 9";
   var Feature = "Feature1";
 
   var i = 45;
+
+  var i = "45Feature2";
   var edit ="feature2 is edited";
   var Feature = "Feature2";
   return (
