@@ -6,7 +6,7 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 
 const App = () => {
-  var i = 45;
+  var i = "45Feature2";
   var edit ="feature2 is edited";
   var Feature = "Feature2";
   return (
