@@ -6,9 +6,9 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 
 const App = () => {
-  var i = "45Feature2";
-  var edit ="feature2 is edited";
-  var Feature = "Feature2";
+  var i = "45Feature2"; // line 9 
+  var edit ="feature2 is edited"; // lin 10
+  var Feature = "Feature2"; // line 11
   return (
     <div>
       <Header />
