@@ -6,6 +6,8 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 
 const App = () => {
+  var i = 45;
+  var Feature = "Feature2";
   return (
     <div>
       <Header />
