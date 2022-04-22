@@ -10,6 +10,17 @@ const App = () => {
   var edit ="feature2 is edited"; // lin 10
   var Feature = "Feature2"; // line 11
   var file = "edited";
+
+var i = "Feature1 is Edited on line 9";
+  var i = 56;
+  var edit = "feature1 edited";
+  var Feature = "Feature1";
+
+  var i = 45;
+
+  var i = "45Feature2";
+  var edit ="feature2 is edited";
+  var Feature = "Feature2";
   return (
     <div>
       <Header />
