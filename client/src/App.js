@@ -6,6 +6,11 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 
 const App = () => {
+  var i = "45Feature2"; // line 9 
+  var edit ="feature2 is edited"; // lin 10
+  var Feature = "Feature2"; // line 11
+  var file = "edited";
+
 var i = "Feature1 is Edited on line 9";
   var i = 56;
   var edit = "feature1 edited";
