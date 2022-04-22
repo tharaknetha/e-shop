@@ -9,6 +9,7 @@ const App = () => {
   var i = "45Feature2"; // line 9 
   var edit ="feature2 is edited"; // lin 10
   var Feature = "Feature2"; // line 11
+  var file = "edited";
   return (
     <div>
       <Header />
